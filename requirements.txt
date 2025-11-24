@@ -1,0 +1,12 @@
+opencv-python
+mediapipe
+numpy
+Pillow
+torch
+torchvision
+playsound
+pandas
+matplotlib
+scikit-image
+jupyterlab
+tqdm

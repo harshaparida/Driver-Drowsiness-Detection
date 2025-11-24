@@ -1,0 +1,48 @@
+{
+  "processed_videos": 19,
+  "missing_label_files": 0,
+  "frame_level": {
+    "n": 10358,
+    "precision": 0.2701048951048951,
+    "recall": 0.8679775280898876,
+    "f1": 0.412,
+    "confusion_matrix": [
+      [
+        9167,
+        835
+      ],
+      [
+        47,
+        309
+      ]
+    ],
+    "tn": 9167,
+    "fp": 835,
+    "fn": 47,
+    "tp": 309,
+    "false_alarm_rate": 0.08348330333933213,
+    "inference_fps": 760.9339094847268
+  },
+  "sequence_level": {
+    "n": 10092,
+    "precision": 0.46946564885496184,
+    "recall": 0.7409638554216867,
+    "f1": 0.5747663551401869,
+    "confusion_matrix": [
+      [
+        9482,
+        278
+      ],
+      [
+        86,
+        246
+      ]
+    ],
+    "tn": 9482,
+    "fp": 278,
+    "fn": 86,
+    "tp": 246,
+    "false_alarm_rate": 0.02848360655737705,
+    "inference_fps": 2362.27895651677
+  }
+}
